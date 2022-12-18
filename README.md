@@ -1,2 +1,2 @@
 # Bit_Bucket_Hamoye_Assignment
-This 
+This is our movie recommendation project. 
